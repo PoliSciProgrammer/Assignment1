@@ -3,3 +3,4 @@ Hobbies and Interests:
 
 Programming Background:
 	CS 165:  C++ Object Oriented Programming
+	CS 271:  MASM Programming Language 
